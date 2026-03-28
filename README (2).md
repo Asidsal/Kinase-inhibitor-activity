@@ -135,7 +135,7 @@ Mol. Inf. 2026, [in submission].
   Department of Pure and Industrial Chemistry, Umaru Musa Yar'adua University, Katsina, Nigeria
   abusiddiq.salihu@umyu.edu.ng
 
-- **Muhammad Sulaiman Rahma** — Writing, review and editing
+- **Muhammad Sulaiman Rahama** — Writing, review and editing
   Department of Pure and Industrial Chemistry, Umaru Musa Yar'adua University, Katsina, Nigeria
 
 - **Wan Mohd Nuzul Hakimi Wan Salleh** — Supervision, writing, review and editing
