@@ -2,7 +2,7 @@
 
 **A Framework for Quantifying Shared and Target-Specific Structure-Activity Relationships Across Kinase Targets Using Cross-Target SHAP Entropy Analysis**
 
-[![Journal](https://img.shields.io/badge/Journal-Molecular%20Informatics-blue)](https://onlinelibrary.wiley.com/journal/18681751)
+[![Journal](https://img.shields.io/badge/Journal-Molecular%20Diversity-blue)](https://onlinelibrary.wiley.com/journal/18681751)
 [![Python](https://img.shields.io/badge/Python-3.11-green)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
@@ -10,7 +10,7 @@
 
 ## Overview
 
-This repository contains the complete, reproducible analysis pipeline for the manuscript submitted to *Molecular Informatics*. The study introduces a cross-target SHAP entropy framework that decomposes Morgan fingerprint feature importance profiles into consensus components (shared across kinase targets) and divergent components (target-specific), applied to 31 human kinase targets from BindingDB under scaffold-based evaluation.
+This repository contains the complete, reproducible analysis pipeline for the manuscript submitted to *Molecular Diversity*. The study introduces a cross-target SHAP entropy framework that decomposes Morgan fingerprint feature importance profiles into consensus components (shared across kinase targets) and divergent components (target-specific), applied to 31 human kinase targets from BindingDB under scaffold-based evaluation.
 
 **Key findings:**
 - Cross-target SHAP profile consistency was moderate (mean Spearman r = 0.332; 465 target pairs)
@@ -124,7 +124,7 @@ If you use this code or data in your research, please cite:
 Salihu, A. S.; Rahma, M. S.; Wan Salleh, W. M. N. H.
 A Framework for Quantifying Shared and Target-Specific Structure-Activity
 Relationships Across Kinase Targets Using Cross-Target SHAP Entropy Analysis.
-Mol. Inf. 2026, [in submission].
+Mol. Div. 2026, [in submission].
 ```
 
 ---
